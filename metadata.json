@@ -1,0 +1,5 @@
+{
+  "name": "ted.ai - Your University Assistant",
+  "description": "An AI-powered assistant for university students. It helps with questions, tracks deadlines and progress, and provides learning resources, all within a sleek, easy-to-use interface.",
+  "requestFramePermissions": []
+}
